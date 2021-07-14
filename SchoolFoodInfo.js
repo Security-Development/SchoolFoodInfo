@@ -50,4 +50,4 @@ function getText(str) {
   return st.replaceAll('.', '');
 }
 
-getFoodInfo('B100000662', 04, 4, new Date());
+//예시사용 getFoodInfo('B100000662', 04, 4, new Date());
